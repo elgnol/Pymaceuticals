@@ -13,5 +13,9 @@ drug regimen and a scatter plot displaying the correlation between tumor volume 
 - Calculate correlation and regression of weight vs. tumor volume.
 
 ## Analysis
+Looking at our boxplot graph we can see the the two most effective drug regimen based on our data are Capomulin and Ramicane since their tumor volume is smaller
+than the other two drug regimens.
+![Image of Boxplot for the four promising drug regimens](https://github.com/elgnol/Pymaceuticals/blob/main/images/box_plot.png)
+
 
 
