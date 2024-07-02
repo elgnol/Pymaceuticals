@@ -1,7 +1,15 @@
 # Pymaceuticals
 
 ## Overview
-We had two data sets containing information on the mice, their drug regimen, and tumor volume. After merging the data sets together, we found the duplicate mouse and removed it from the dataset, then created a new data frame containing the summary statitic table with the mean, median, variance, standard deviation, and standard error for the tumor volume of the mice under each drug regimen. 
+Given two data sets containing information on the mice, their drug regimen, and tumor volume. 
+This assignment is broken down into the following tasks:
+- Prepare the data.
+- Generate summary statistics.
+- Create bar charts and pie charts.
+- Calculate quartiles, find outliers, and create a box plot.
+- Create a line plot and a scatter plot.
+- Calculate correlation and regression.
+
 ## Analysis
 
 
